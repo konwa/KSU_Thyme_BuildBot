@@ -1,6 +1,6 @@
 [submodule "Kernel_Source/Lynnrin"]
 	path = Kernel_Source/Lynnrin
-	url = https://github.com/DogDayAndroid/kernel_xiaomi_thyme
+	url = https://github.com/konwa/kernel_xiaomi_thyme.git
     branch = thirteen
     update = merge
 [submodule "toolchains/tc-build"]
