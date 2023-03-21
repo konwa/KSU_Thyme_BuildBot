@@ -5,8 +5,6 @@ env:
   TARGET_KERNEL: "Lynnrin"
 
 on:
-  schedule:
-    - cron: "0 14 * * *"
   # 推送到 main 分支时主动执行
   push:
     branches: [main]
